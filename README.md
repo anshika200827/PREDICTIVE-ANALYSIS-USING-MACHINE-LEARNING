@@ -19,3 +19,8 @@ The entire workflow was completed using Microsoft Excel for data preparation and
  Starting from raw CSV data, the workflow covered data loading, cleaning, feature selection, exploratory analysis, model training, and evaluation.
 The Iris dataset proved to be an excellent beginner dataset: clean, balanced, and containing features with strong predictive power. The petal measurements — particularly petal length — emerged as the decisive features for species identification, enabling the Decision Tree model to achieve 97% accuracy on unseen test data.
 The Power BI dashboard provides an interactive, visual summary of the entire analysis, allowing users to explore species-level differences and verify the model's insights through charts, matrices, and slicers.
+
+OUTPUT
+
+<img width="1918" height="1017" alt="Image" src="https://github.com/user-attachments/assets/7fe4dcad-f952-42d5-9f7a-3043d52b36e5" />
+
